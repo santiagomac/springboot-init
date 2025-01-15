@@ -7,7 +7,7 @@ CLI tool to create Spring Boot projects with basic dependencies (Web or Webflux)
 To install the CLI tool, you can use `go install`
 
 ```bash
-go install github.com/santiagomac/springboot-init-cli@latest
+go install github.com/santiagomac/springboot-init@latest
 ```
 
 ## Usage
